@@ -1,0 +1,29 @@
+{
+  "name": "fc-project-timestamp",
+  "version": "0.0.1",
+  "description": "An FCC backend challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "moment": "^2.30.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
+  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp"
+  ],
+  "license": "MIT"
+}
